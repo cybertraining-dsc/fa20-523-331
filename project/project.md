@@ -1,8 +1,9 @@
 # Big Data in Sports Game Predictions and How It is Used in Sports Gambling
-Mansukh Kandhari, fa20-523-331
+Mansukh Kandhari, fa20-523-331, https://github.com/cybertraining-dsc/fa20-523-331/blob/main/project/project.md
 
 ## Abstract 
 Big Data in sports has been used for years by various stakeholders in this inidustry to do everything from predicting game outcomes to injury prevention. It is also becoming very prevelant in the area of sports gambling. Ever since the Supreme court decision in Murphy v. National Collegiate Athletic Association that overturned a ban on sports betting, the majorirty of states in the US have passed legislation to allow sports gambling[1]. In 2019, the global sports betting market was valued at 85.047 US Dollars so this is an already very big industry that is expanding. There are various platforms that allow betting in this industry including tangible sports books, casinos, racetracks, and many online and mobile gambling apps. The interesting thing about big data in sports betting is that it is being used on both sides in this market. It is used by bookmakers to create game models and come up with different spreads and odds, but big data anlysis is also being used by gamblers to gain a competetive advantage and place more accurate betes. 
+
 
 
 ## Introduction 
