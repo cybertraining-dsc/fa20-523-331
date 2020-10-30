@@ -7,9 +7,7 @@ Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-
 {{% pageinfo %}}
 
 ## Abstract
-
-Big Data in sports has been used for years by various stakeholders in this inidustry to do everything from predicting game outcomes to injury prevention. It is also becoming very prevelant in the area of sports gambling. Ever since the Supreme court decision in Murphy v. National Collegiate Athletic Association that overturned a ban on sports betting, the majorirty of states in the US have passed legislation to allow sports gambling. In 2019, the global sports betting market was valued at 85.047 US Dollars so this is an already very big industry that is expanding. There are various platforms that allow betting in this industry including tangible sports books, casinos, racetracks, and many online and mobile gambling apps. The interesting thing about big data in sports betting is that it is being used on both sides in this market. It is used by bookmakers to create game models and come up with different spreads and odds, but big data anlysis is also being used by gamblers to gain a competetive advantage and place more accurate betes. 
-
+*completed further along in project=
 
 Contents
 
@@ -17,16 +15,14 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** toxicology, pollution, autonomous systems, surface vehicle, sensors, arduino, water quality, data analysis, environment, big data, ecosystem 
+**Keywords:** sports, sportsbook, betting, gambling, data analysis, machine learning
 
 ## 1. Introduction 
+Big Data in sports has been used for years by various stakeholders in this inidustry to do everything from predicting game outcomes to injury prevention. It is also becoming very prevelant in the area of sports gambling. Ever since the Supreme court decision in Murphy v. National Collegiate Athletic Association that overturned a ban on sports betting, the majorirty of states in the US have passed legislation to allow sports gambling[^1]. In 2019, the global sports betting market was valued at 85.047 US Dollars so this is an already very big industry that is expanding [^2]. There are various platforms that allow betting in this industry including tangible sports books, casinos, racetracks, and many online and mobile gambling apps. The interesting thing about big data in sports betting is that it is being used on both sides in this market. It is used by bookmakers to create game models and come up with different spreads and odds, but big data anlysis is also being used by gamblers to gain a competetive advantage and place more accurate bets. Various prediction models using Machine Learning have been created and one might wonder, if these models are even somewhat accurate, how people haven't taken millions from bookmakers? This report aims to analyize different prediction models made by people for various sports, and compare them to models used by Bookies to create the odds for each repsective sport. It aims to show what the most possible accuracy can be, and if there is a feasable way to get a consistent good return from betting. 
 
-This is an example for a citation as you can not cite in an abstract [^1].
 
 ## 2. Plan
-
-TBD
-
+For this report, an examination of the different methods used by various bookmakers and data driven sports betters will occur. The plan is to compare the different stastistical models and examine which ones work the best and to see how good various sports betting models predict over/under and straight bet outcomes for a game, and also program game prediction models. Various data sets will be used from sites such as https://www.sportsbookreview.com/betting-odds/ to get historical betting odds and https://www.basketball-reference.com/ for NBA basketball data, https://www.baseball-reference.com/ for MLB baseball data, and https://www.pro-football-reference.com/ for American Football data. These will be used to program an example predicion model for this report. Since a programming aspect is not required for undergraduates, it is not certian that this will be able to be done in the timeframe; however, it is likley that a simple model can be made by the author. Various game prediction models that have been created will also be analyized as part of this report, in order to see how they compare to models used by bookmakers for each sport. 
 ## 3. References
 
 [^1]: Author Missing, Title Missing, <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>
