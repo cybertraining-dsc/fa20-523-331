@@ -1,10 +1,8 @@
 # Big Data in Sports Game Predictions and How It is Used in Sports Gambling
 
-- [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> if you need to know more
+- [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
 
 Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/project/project.md)
-
-
 
 {{% pageinfo %}}
 
@@ -21,16 +19,15 @@ Contents
 
 **Keywords:** toxicology, pollution, autonomous systems, surface vehicle, sensors, arduino, water quality, data analysis, environment, big data, ecosystem 
 
-## Abstract 
-
-{{% /pageinfo %}}
-
-## Introduction 
+## 1. Introduction 
 
 This is an example for a citation as you can not cite in an abstract [^1].
 
+## 2. Plan
 
-### Resources
+TBD
+
+## 3. References
 
 [^1]: Author Missing, Title Missing, <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>
 
