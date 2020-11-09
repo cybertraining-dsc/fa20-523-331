@@ -23,6 +23,9 @@ Big Data in sports has been used for years by various stakeholders in this inidu
 
 ## 2. Plan
 For this report, an examination of the different methods used by various bookmakers and data driven sports betters will occur. The plan is to compare the different stastistical models and examine which ones work the best and to see how good various sports betting models predict over/under and straight bet outcomes for a game, and also program game prediction models. Various data sets will be used from sites such as https://www.sportsbookreview.com/betting-odds/ to get historical betting odds and https://www.basketball-reference.com/ for NBA basketball data, https://www.baseball-reference.com/ for MLB baseball data, and https://www.pro-football-reference.com/ for American Football data. These will be used to program an example predicion model for this report. Since a programming aspect is not required for undergraduates, it is not certian that this will be able to be done in the timeframe; however, it is likley that a simple model can be made by the author. Various game prediction models that have been created will also be analyized as part of this report, in order to see how they compare to models used by bookmakers for each sport. 
+
+## Possion Model
+
 ## 3. References
 
 [^1]: Unlisted Author, Sports Betting in States Races on a Year After SCOTUS Overturns Ban, <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>
