@@ -45,9 +45,11 @@ When odds are being made for a sports book, a lot of things are taken into consi
 
 
 
-## 4. Possion Model
+## 5. Possion Model
 
-## 5. References
+## 6. AI Driven Prediction Algorithms Created by Gamblers
+
+## 7. References
 
 [^1]: Unlisted Author, Sports Betting in States Races on a Year After SCOTUS Overturns Ban, <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>
 
