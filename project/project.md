@@ -3,6 +3,7 @@
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
 
 - [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
+- [ ] Please use references instead of adding urls to cite the work. (Vibhatha). Follow the template to fix these. 
 
 Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/project/project.md)
 
