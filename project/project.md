@@ -59,15 +59,14 @@ When odds are being made for a sports book, a lot of things are taken into consi
 
 ## 8. References
 
-[^1]: Unlisted Author, Sports Betting in States Races on a Year After SCOTUS Overturns Ban, <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>
+[^1]: “INSIGHT: Sports Betting in States Races on a Year After SCOTUS Overturns Ban,” Bloomberg Law, 04-Jun-2019. [Online]. Available: <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>.
 
-[^2]: Unlisted Author, Global Sports Betting Market Worth $85 Billion in 2019 - Industry Assessment and Forecasts Throughout 2020-2025,  <https://www.globenewswire.com/news-release/2020/08/31/2086041/0/en/Global-Sports-Betting-Market-Worth-85-Billion-in-2019-Industry-Assessment-and-Forecasts-Throughout-2020-2025.html#:~:text=31%2C%202020%20(GLOBE%20NEWSWIRE),US%2485.047%20billion%20in%202019>.
+[^2]: Research and Markets, “Global Sports Betting Market Worth $85 Billion in 2019 - Industry Assessment and Forecasts Throughout 2020-2025,” GlobeNewswire News Room, 31-Aug-2020. [Online]. Available: <https://www.globenewswire.com/news-release/2020/08/31/2086041/0/en/Global-Sports-Betting-Market-Worth-85-Billion-in-2019-Industry-Assessment-and-Forecasts-Throughout-2020-2025.html>.
 
-[^3]: Mathew Trenhaile, How Bookmakers Create their Odds, from a Former Odds Compiler, <https://medium.com/@TrademateSports/how-bookmakers-create-their-odds-from-a-former-odds-compiler-5b36b4937439>
+[^3]: M. Trenhaile, “How Bookmakers Create their Odds, from a Former Odds Compiler,” Medium, 29-Jun-2017. [Online]. Available: <https://medium.com/@TrademateSports/how-bookmakers-create-their-odds-from-a-former-odds-compiler-5b36b4937439>. [Accessed: Nov-2020]. 
 
-[^4]: Unlisted Author,How Big Data Analytics are Transforming the Global Gambling Industry <https://www.analyticsinsight.net/how-big-data-analytics-are-transforming-the-global-gambling-industry/>
+[^4]: “How Big Data Analytics Are Transforming the Global Gambling Industry,” Analytics Insight, 17-Jan-2020. [Online]. Available: <https://www.analyticsinsight.net/how-big-data-analytics-are-transforming-the-global-gambling-industry/>. [Accessed: Oct-2020]. 
 
-[^5]: Unlisted Author, The Secret Betting Strategy that Beats Online Bookmakers <https://www.technologyreview.com/2017/10/19/67760/the-secret-betting-strategy-that-beats-online-bookmakers/>
+[^5]: arXiv, “The Secret Betting Strategy That Beats Online Bookmakers,” MIT Technology Review, 19-Oct-2017. [Online]. Available: <https://www.technologyreview.com/2017/10/19/67760/the-secret-betting-strategy-that-beats-online-bookmakers/>. [Accessed: 2020]. 
 
-[^6]: Andre Dorr, How to Provide Predictive Analytics to Premiership Football to Beat The Bookies, <https://dataconomy.com/2019/03/how-to-apply-predictive-analytics-to-premiership-football-to-beat-the-bookies%EF%BB%BF/>
-
+[^6]: A. Dörr, “How to apply predictive analytics to Premiership football to beat the bookies﻿,” Dataconomy, 19-Mar-2019. [Online]. Available: <https://dataconomy.com/2019/03/how-to-apply-predictive-analytics-to-premiership-football-to-beat-the-bookies%EF%BB%BF/>. [Accessed: 2020]. 
