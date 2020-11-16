@@ -73,4 +73,4 @@ One of the most accurate models created, in terms of recieving a good return on 
 
 [^6]: A. Dörr, "How to apply predictive analytics to Premiership football to beat the bookies," Dataconomy, 19-Mar-2019. [Online]. Available: <https://dataconomy.com/2019/03/how-to-apply-predictive-analytics-to-premiership-football-to-beat-the-bookies%EF%BB%BF/>. [Accessed: 2020]. 
 
-[^7]: M. Silverio, “My findings on using machine learning for sports betting: Do bookmakers always win?,” Medium, 26-Aug-2020. [Online]. Available: <https://towardsdatascience.com/my-findings-on-using-machine-learning-for-sports-betting-do-bookmakers-always-win-6bc8684baa8c>. [Accessed: 2020]. 
+[^7]: M. Silverio, "My findings on using machine learning for sports betting: Do bookmakers always win?," Medium, 26-Aug-2020. [Online]. Available: <https://towardsdatascience.com/my-findings-on-using-machine-learning-for-sports-betting-do-bookmakers-always-win-6bc8684baa8c>. [Accessed: 2020]. 
