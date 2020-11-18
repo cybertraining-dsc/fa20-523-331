@@ -3,6 +3,7 @@
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
 
 - [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
+
 - extention granted by Professor Fox
 
 Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/project/project.md)
@@ -27,6 +28,7 @@ Big Data in sports has been used for years by various stakeholders in this inidu
 
 
 ## 2. Plan
+
 Nov 21: Research on Tax and Joustra and Davoodi and Khanteymoori sports prediction models
 
 November 31: Possion distribution model used in sports prediction, make own possion distrubution with premier league data using R
