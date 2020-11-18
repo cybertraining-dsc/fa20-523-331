@@ -3,7 +3,7 @@
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
 
 - [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
-- [ ] Please use references instead of adding urls to cite the work. (Vibhatha). Follow the template to fix these. 
+- extention granted by Professor Fox
 
 Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/project/project.md)
 
@@ -27,9 +27,9 @@ Big Data in sports has been used for years by various stakeholders in this inidu
 
 
 ## 2. Plan
+Nov 21: Research on Tax and Joustra and Davoodi and Khanteymoori sports prediction models
 
-For this report, an examination of the different methods used by various bookmakers and data driven sports betters will occur. The plan is to compare the different stastistical models and examine which ones work the best and to see how good various sports betting models predict over/under and straight bet outcomes for a game, and also program game prediction models. Various data sets will be used from sites such as <https://www.sportsbookreview.com/betting-odds/> to get historical betting odds and <https://www.basketball-reference.com/> for NBA basketball data, <https://www.baseball-reference.com>/ for MLB baseball data, and <https://www.pro-football-reference.com/> for American Football data. These will be used to program an example predicion model for this report. Since a programming aspect is not required for undergraduates, it is not certian that this will be able to be done in the timeframe; however, it is likley that a simple model can be made by the author. Various game prediction models that have been created will also be analyized as part of this report, in order to see how they compare to models used by bookmakers for each sport. 
-
+November 31: Possion distribution model used in sports prediction, make own possion distrubution with premier league data using R
 
 
 
