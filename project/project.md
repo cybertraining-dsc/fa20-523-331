@@ -1,6 +1,8 @@
 # Big Data in Sports Game Predictions and How It is Used in Sports Gambling
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
+[![Status](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
+Status: in progress
 
 - [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
 
