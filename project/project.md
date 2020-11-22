@@ -5,8 +5,7 @@
 Status: in progress
 
 - [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
-
-- extention granted by Professor Fox
+- [ ] please continue to make progress
 
 Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/project/project.md)
 
