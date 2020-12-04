@@ -65,7 +65,7 @@ One of the most accurate models created, in terms of recieving a good return on 
 
 ## 8. References
 
-[^1]: "INSIGHT: Sports Betting in States Races on a Year After SCOTUS Overturns Ban," Bloomberg Law, 04-Jun-2019. [Online]. Available: <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>.
+[^1]: INSIGHT: Sports Betting in States Races on a Year After SCOTUS Overturns Ban," Bloomberg Law, 04-Jun-2019. [Online]. Available: <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>.
 
 [^2]: Research and Markets, "Global Sports Betting Market Worth $85 Billion in 2019 - Industry Assessment and Forecasts Throughout 2020-2025," GlobeNewswire News Room, 31-Aug-2020. [Online]. Available: <https://www.globenewswire.com/news-release/2020/08/31/2086041/0/en/Global-Sports-Betting-Market-Worth-85-Billion-in-2019-Industry-Assessment-and-Forecasts-Throughout-2020-2025.html>.
 
@@ -79,6 +79,6 @@ One of the most accurate models created, in terms of recieving a good return on 
 
 [^7]: M. Silverio, "My findings on using machine learning for sports betting: Do bookmakers always win?," Medium, 26-Aug-2020. [Online]. Available: <https://towardsdatascience.com/my-findings-on-using-machine-learning-for-sports-betting-do-bookmakers-always-win-6bc8684baa8c>. [Accessed: 2020].
 
-[^8]: R. Delgado, “How Big Data is Changing the Gambling World: Articles: Chief Data Officer,” Articles | Chief Data Officer | Innovation Enterprise, 01-Sep-2016. [Online]. Available: <https://channels.theinnovationenterprise.com/articles/how-big-data-is-changing-the-gambling-world>. [Accessed: 29-Nov-2020]. 
+[^8]: R. Delgado, "How Big Data is Changing the Gambling World: Articles: Chief Data Officer," Articles | Chief Data Officer | Innovation Enterprise, 01-Sep-2016. [Online]. Available: <https://channels.theinnovationenterprise.com/articles/how-big-data-is-changing-the-gambling-world>. [Accessed: 29-Nov-2020]. 
 
-[^9]: R. P. Bunker and F. Thabtah, “A machine learning framework for sport result prediction,” Applied Computing and Informatics, 19-Sep-2017. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S2210832717301485. [Accessed: 2020]. 
+[^9]: R. P. Bunker and F. Thabtah, "A machine learning framework for sport result prediction," Applied Computing and Informatics, 19-Sep-2017. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S2210832717301485. [Accessed: 2020]. 
