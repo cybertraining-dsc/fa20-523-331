@@ -90,3 +90,4 @@ One of the most accurate models created, in terms of recieving a good return on 
 
 [^12]: J. Bailey, "Applying Data Science to Sports Betting," Medium, 18-Sep-2018. [Online]. Available: <https://medium.com/@jxbailey23/applying-data-science-to-sports-betting-1856ac0b2cab>. [Accessed: 2020]. 
 
+[^13]: J. Bailey, "Jordan-Bailey/DSI_Capstone_Project," DSI_Capstone_Project, 14-Sep-2018. [Online]. Available: <https://github.com/Jordan-Bailey/DSI_Capstone_Project/blob/master/Technical_Report.md>. [Accessed: 01-Dec-2020]. 
