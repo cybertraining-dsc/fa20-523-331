@@ -2,10 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
-Status: in progress, Type: Report
-
-- [ ] see our sample template at <https://cybertraining-dsc.github.io/report/> for an elaborate example
-
+Status: final, Type: Report
 
 Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/report/report.md)
 
