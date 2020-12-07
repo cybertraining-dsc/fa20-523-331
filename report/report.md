@@ -13,7 +13,8 @@ Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-
 
 ## Abstract
 
-*completed further along in project
+
+Big data in sports is being used more and more as technology advances and this has a very big impact, especially when it comes to sports gambling. Sports gambling has been around for a while and it is gaining popularity with it being legalized in more places across the world. It is a very lucrative industry and the bookmakers use everything they can to make sure the overall odds are in their favor so they can reduce the risk of paying out to the betters and ensure a steady return. Sports statistics and data is more important than ever to bookmakers to come up with the odds they put out to the public. Odds are no longer just determined by expert analyzers for a specific sport. The compilation of odds uses a lot of historical data about team and player performance and looks at the most intricate details in order to ensure accuracy. Bookmakers spend a lot of money to employ the best statisticians and the best algorithms. There are also many companies that solely focus on sports data analysis, who often work with bookmakers around the world. On the other hand, big data for sports game analysis are also used by gamblers to gain a competitive edge. Many different algorithms have been created by researchers and gamblers to try to beat the bookmakers, some more successful than others. Oftentimes these not only involve examining sports data, but also analysing data from different bookmakers odds in order to determine the best bets to place. Overall, big data is very important in this field and this research paper aims to show the various techniques that are used by different stakeholders. 
 
 Contents
 
