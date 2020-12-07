@@ -56,6 +56,8 @@ One of the most accurate models created, in terms of receiving  a good return on
 
 ## 7. Conclusion
 
+Overall, big data plays a very important role in the sports betting industry and it is used by various stakeholders. Bookmakers use it to come up with odds and gamblers use it for a competitive advantage. Although data analysis is very important on both ends, this research shows that it is very hard to receive a consistent return as a gambler. From 1989 to 2000 for NFl betting, the bookmakers favorite won 66.7 percent of the time and from 2001 and 2012, the bookmakers favorite won 66.9 percent of the time [^16].  Even though technology has advanced and people use the most sophisticated algorithms to come up with prediction models, the bookmaker seems to have the advantage. This is due to the fact that bookmakers spend tons of money gathering the most accurate data and employ some of the best statisticians and sports analysing firms, but also due to the way they hedge bets and use public opinion to modify odds so that they can cover their losses. When gamblers start making a lot of money from sports betting and the bookmakers catch on, they can be limited from betting as mentioned earlier with Lisandro Kaunitz from the University of Tokyo. Overall, big data can help gamblers make better predictions but as it always is in gambling, the house will do everything to make sure the odds are in their favor. 
+
 ## 8. References
 
 [^1]: INSIGHT: Sports Betting in States Races on a Year After SCOTUS Overturns Ban," Bloomberg Law, 04-Jun-2019. [Online]. Available: <https://news.bloomberglaw.com/us-law-week/insight-sports-betting-in-states-races-on-a-year-after-scotus-overturns-ban>.
@@ -87,3 +89,5 @@ One of the most accurate models created, in terms of receiving  a good return on
 [^14]: B. Cronin, "Poisson Distribution: Predict the score in soccer betting," Pinnacle, 27-Apr-2017. [Online]. Available: <https://www.pinnacle.com/en/betting-articles/Soccer/how-to-calculate-poisson-distribution/MD62MLXUMKMXZ6A8>. [Accessed: 2020]. 
 
 [^15]: J. Zalcman, "HOW TO CREATE A SPORTS BETTING ALGORITHM," Oddsfactory, 16-Nov-2020. [Online]. Available: <https://theoddsfactory.com/how-to-create-a-sports-betting-algorithm/>. [Accessed: 2020].
+
+[^16]: M. Beouy, "BGO - The Casino of the Future," bgo Online Casino. [Online]. Available: <https://www.bgo.com/casino-of-the-future/the-future-of-sports-betting/. [Accessed: 05-Dec-2020]>. 
