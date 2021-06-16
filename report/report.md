@@ -1,10 +1,21 @@
-# Big Data in Sports Game Predictions and How It is Used in Sports Gambling
+---
+date: 2021-03-15
+title: Big Data in Sports Game Predictions and How It is Used in Sports Gambling
+linkTitle: Sports Gambeling
+tags: ["report", "ai", "sports", "finance"]
+description: Big Data in Sports Game Predictions and How It is Used in Sports Gambling
+author: Mansukh Kandhari
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
+# 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-331/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-331/actions)
 Status: final, Type: Report
 
-Mansukh Kandhari,, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/report/report.md)
+Mansukh Kandhari, [fa20-523-331](https://github.com/cybertraining-dsc/fa20-523-331/), [Edit](https://github.com/cybertraining-dsc/fa20-523-331/blob/master/report/report.md)
 
 {{% pageinfo %}}
 
